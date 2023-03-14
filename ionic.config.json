@@ -1,0 +1,8 @@
+{
+  "name": "pruebaCalo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "080a81cf"
+}

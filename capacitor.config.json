@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pruebaCalo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
